@@ -1,0 +1,8 @@
+#project-poster-collection .continuous-artworks{display:grid!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:clamp(5px,1.2vw,16px);background:transparent;border-radius:0;overflow:visible;width:100%;min-width:0}
+#project-poster-collection .continuous-artworks figure{min-width:0;align-self:start}
+#project-poster-collection .chapter-button{border-radius:7px;overflow:hidden;border:1px solid #ffffff16;background:#11151c;transition:transform .25s ease,box-shadow .25s ease}
+#project-poster-collection .chapter-button:hover{transform:translateY(-4px);box-shadow:0 14px 25px #0004}
+#project-poster-collection .chapter-button img{width:100%;height:auto;display:block;object-fit:contain}
+#project-poster-collection .continuous-artworks>figure{grid-column:auto!important;width:auto!important;margin:0!important}
+@media(prefers-reduced-motion:reduce){#project-poster-collection .chapter-button{transition:none}#project-poster-collection .chapter-button:hover{transform:none}}
+

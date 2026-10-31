@@ -1,0 +1,1240 @@
+[
+  {
+    "id": "bear-kitchen",
+    "title": "把日常，做得有滋有味。",
+    "name": "小熊厨房 · 电商视觉",
+    "en": "EVERYDAY KITCHEN",
+    "category": "电商设计",
+    "brief": "从店铺首页到商品详情，用温暖的厨房场景连接产品、食物与日常生活。",
+    "background": "以已有的 PC 店铺、移动端店铺、618 活动及两款商品详情成稿为基础，整理为完整的厨房小家电视觉案例。",
+    "strategy": "以奶杏、暖白和咖啡棕组织生活场景，红色承载优惠与行动信息。多端页面保持相近的品类顺序，商品详情通过使用场景、局部结构和参数逐层展开。",
+    "scope": [
+      "多端店铺",
+      "活动专题",
+      "商品详情",
+      "视觉整理"
+    ],
+    "note": "基于已有设计稿的作品集整理；未主张品牌官方委托或销售成效。",
+    "colors": [
+      "#eadac3",
+      "#89634a",
+      "#b83227"
+    ],
+    "images": [
+      {
+        "src": "asset--bear-commerce-originals--01-01.webp",
+        "title": "小熊电器店铺首页 · 1",
+        "width": 1440,
+        "height": 6500
+      },
+      {
+        "src": "asset--bear-commerce-originals--01-02.webp",
+        "title": "小熊电器店铺首页 · 2",
+        "width": 1440,
+        "height": 549
+      },
+      {
+        "src": "asset--bear-commerce-originals--02-01.webp",
+        "title": "移动端店铺设计 · 1",
+        "width": 1440,
+        "height": 6500
+      },
+      {
+        "src": "asset--bear-commerce-originals--02-02.webp",
+        "title": "移动端店铺设计 · 2",
+        "width": 1440,
+        "height": 5168
+      },
+      {
+        "src": "asset--bear-commerce-originals--03-01.webp",
+        "title": "618 活动专题页 · 1",
+        "width": 1440,
+        "height": 6500
+      },
+      {
+        "src": "asset--bear-commerce-originals--03-02.webp",
+        "title": "618 活动专题页 · 2",
+        "width": 1440,
+        "height": 2381
+      },
+      {
+        "src": "asset--bear-commerce-originals--04-01.webp",
+        "title": "空气炸锅商品详情 · 1",
+        "width": 1108,
+        "height": 6500
+      },
+      {
+        "src": "asset--bear-commerce-originals--04-02.webp",
+        "title": "空气炸锅商品详情 · 2",
+        "width": 1108,
+        "height": 6500
+      },
+      {
+        "src": "asset--bear-commerce-originals--04-03.webp",
+        "title": "空气炸锅商品详情 · 3",
+        "width": 1108,
+        "height": 2000
+      },
+      {
+        "src": "asset--bear-commerce-originals--05-01.webp",
+        "title": "双锅电煮锅商品详情 · 1",
+        "width": 1023,
+        "height": 6500
+      },
+      {
+        "src": "asset--bear-commerce-originals--05-02.webp",
+        "title": "双锅电煮锅商品详情 · 2",
+        "width": 1023,
+        "height": 6500
+      },
+      {
+        "src": "asset--bear-commerce-originals--05-03.webp",
+        "title": "双锅电煮锅商品详情 · 3",
+        "width": 1023,
+        "height": 1998
+      }
+    ],
+    "cover": "asset--bear-kitchen--cover.webp",
+    "commerceSections": [
+      {
+        "title": "小熊电器店铺首页",
+        "en": "FULL STORE CASE",
+        "background": "围绕厨房小家电已有店铺成稿，展示从品牌生活场景到品类导购的完整视觉表达。",
+        "strategy": "采用奶油白、暖木色与产品浅绿色，按厨房场景、优惠信息、品类及商品组织浏览顺序，营造亲和的家居氛围。",
+        "label": "店铺首页",
+        "colors": [
+          "#ede1ca",
+          "#a97950",
+          "#c5d2a3"
+        ],
+        "indices": [
+          0,
+          1
+        ]
+      },
+      {
+        "title": "移动端店铺设计",
+        "en": "MOBILE STORE DESIGN",
+        "background": "以同一厨房小家电主题延展移动端店铺展示，适应纵向浏览与手机阅读。",
+        "strategy": "保留品牌生活感及商品识别，以单列场景和紧凑的品类分区建立移动端节奏。通过商品图大小与留白形成重点。",
+        "label": "移动端首页",
+        "colors": [
+          "#f4ead7",
+          "#b18159",
+          "#c6d6aa"
+        ],
+        "indices": [
+          2,
+          3
+        ]
+      },
+      {
+        "title": "618 活动专题页",
+        "en": "EVENT TOPIC PAGE",
+        "background": "以 618 节点为主题的促销视觉设计，将家电产品、活动权益和主题场景集中呈现。",
+        "strategy": "以红金配色与中式场景建立节庆气氛，优惠信息前置，再依次展开主推与精选商品，通过文字大小、色块及商品比例区分层级。",
+        "label": "活动专题页",
+        "colors": [
+          "#bd2026",
+          "#e9b35e",
+          "#fff0cf"
+        ],
+        "indices": [
+          4,
+          5
+        ]
+      },
+      {
+        "title": "空气炸锅商品详情",
+        "en": "PRODUCT DETAILS PAGE",
+        "background": "围绕空气炸锅原有商品详情成稿，以“看得见的烹饪”为叙事线索展示产品。",
+        "strategy": "从美食与取餐场景引入，以可视窗口贯穿功能解释，再展示容量、操作、清洁与细节，最终用参数信息收束。",
+        "label": "商品详情页",
+        "colors": [
+          "#e8ddc7",
+          "#352b25",
+          "#a87c4f"
+        ],
+        "indices": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "title": "双锅电煮锅商品详情",
+        "en": "PRODUCT DETAILS PAGE",
+        "background": "围绕双锅电煮锅已有设计，以日常烹饪场景解释产品分工和使用方式。",
+        "strategy": "以并列构图表达双锅结构，结合烹饪、端锅及操作细节解释使用体验。暖白底与食材色彩形成连续而清晰的阅读节奏。",
+        "label": "商品详情页",
+        "colors": [
+          "#eee3d2",
+          "#b68c65",
+          "#85977a"
+        ],
+        "indices": [
+          9,
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tidebound-atlas",
+    "title": "让每一次启航，都有方向。",
+    "name": "潮汐航记 · 游戏 UI",
+    "en": "TIDEBOUND ATLAS",
+    "category": "游戏 UI",
+    "brief": "探索航路、抵御海贼、回收航标，再让灯塔照向更远的海域。",
+    "background": "以海上探索与灯塔修复为核心的游戏概念设计，围绕回收前战斗、资源获取和队伍成长建立连续的界面体验。",
+    "strategy": "以手绘木纹、纸质地图、黄铜与海蓝色建立航海语境。把战斗、回收、修复、升级、装备打造与伙伴招募串联，界面分别说明行动入口、资源成本和结果反馈。",
+    "scope": [
+      "游戏界面",
+      "战斗卡牌",
+      "地图与装备",
+      "伙伴招募"
+    ],
+    "note": "自主游戏概念及界面设计，非已上线游戏。",
+    "colors": [
+      "#593c26",
+      "#d2a450",
+      "#479ab1"
+    ],
+    "images": [
+      {
+        "src": "asset--tidebound-atlas--01.webp",
+        "title": "项目总览",
+        "width": 1600,
+        "height": 2593
+      },
+      {
+        "src": "asset--tidebound-atlas--02.webp",
+        "title": "项目背景与设计目标",
+        "width": 1600,
+        "height": 2148
+      },
+      {
+        "src": "asset--tidebound-atlas--03.webp",
+        "title": "核心循环",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--04.webp",
+        "title": "灯塔成长路线",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--05.webp",
+        "title": "信息架构与视觉规则",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--06.webp",
+        "title": "启动与船坞",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--07.webp",
+        "title": "世界海域与本地航路",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--08.webp",
+        "title": "探索与海贼拦截",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--09.webp",
+        "title": "战前预警与胜利回收",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--10.webp",
+        "title": "回收完成与首次修复",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--11.webp",
+        "title": "灯塔升级与海域解锁",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--12.webp",
+        "title": "造船与舰船装备",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--13.webp",
+        "title": "武器打造与属性提升",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--14.webp",
+        "title": "金币招募与单次结果",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--15.webp",
+        "title": "招募规则与十次结果",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--16.webp",
+        "title": "队伍编成与伙伴培养",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--17.webp",
+        "title": "伙伴与战力",
+        "width": 1600,
+        "height": 2370
+      },
+      {
+        "src": "asset--tidebound-atlas--18.webp",
+        "title": "舰船装备图鉴",
+        "width": 1600,
+        "height": 2333
+      },
+      {
+        "src": "asset--tidebound-atlas--19.webp",
+        "title": "战斗卡牌与双卡组",
+        "width": 1600,
+        "height": 2415
+      },
+      {
+        "src": "asset--tidebound-atlas--20.webp",
+        "title": "状态与验证",
+        "width": 1600,
+        "height": 2370
+      },
+      {
+        "src": "asset--tidebound-atlas--21.webp",
+        "title": "战斗信息拆解",
+        "width": 1600,
+        "height": 2333
+      },
+      {
+        "src": "asset--tidebound-atlas--22.webp",
+        "title": "地图与补给细节",
+        "width": 1600,
+        "height": 2444
+      },
+      {
+        "src": "asset--tidebound-atlas--23.webp",
+        "title": "探索道具与航路节点",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--24.webp",
+        "title": "航行图标与卡牌",
+        "width": 1600,
+        "height": 2415
+      },
+      {
+        "src": "asset--tidebound-atlas--25.webp",
+        "title": "四海域航路",
+        "width": 1600,
+        "height": 2222
+      },
+      {
+        "src": "asset--tidebound-atlas--26.webp",
+        "title": "招募确认与加载",
+        "width": 1600,
+        "height": 2296
+      },
+      {
+        "src": "asset--tidebound-atlas--27.webp",
+        "title": "伙伴揭晓与重复转化",
+        "width": 1600,
+        "height": 2296
+      },
+      {
+        "src": "asset--tidebound-atlas--28.webp",
+        "title": "中断恢复与结果记录",
+        "width": 1600,
+        "height": 2296
+      },
+      {
+        "src": "asset--tidebound-atlas--29.webp",
+        "title": "从招募到上阵",
+        "width": 1600,
+        "height": 2296
+      },
+      {
+        "src": "asset--tidebound-atlas--30.webp",
+        "title": "项目查漏补缺",
+        "width": 1600,
+        "height": 2296
+      }
+    ],
+    "cover": "asset--tidebound-atlas--cover.webp"
+  },
+  {
+    "id": "56-chick",
+    "title": "把快乐，孵进每一天。",
+    "name": "56鸡 · IP 与互动养成",
+    "en": "LITTLE JOYS, EVERY DAY",
+    "category": "IP 设计",
+    "brief": "一只戴着宽松蛋壳帽的小鸡，把表情、穿搭与轻互动连成一个可爱的世界。",
+    "background": "围绕原创小鸡 IP“56鸡”展开角色、表情、皮肤、生活场景和互动界面的系列设计。",
+    "strategy": "以黄色小鸡、鸡蛋壳、红色鸡冠和清亮蓝色形成稳定识别。保留圆润体态与亲和表情，通过独立界面设计呈现养成、换装、小游戏与奖励等状态。",
+    "scope": [
+      "原创 IP",
+      "表情与皮肤",
+      "养成界面",
+      "互动流程"
+    ],
+    "note": "自主 IP 视觉与互动概念。隐藏款为动漫致敬探索，与常规原创角色区分展示。",
+    "colors": [
+      "#ffe45d",
+      "#43c5e7",
+      "#fff7de"
+    ],
+    "images": [
+      {
+        "src": "asset--56-chick--01.webp",
+        "title": "品牌场景与角色设定",
+        "width": 1600,
+        "height": 3259
+      },
+      {
+        "src": "asset--56-chick--02.webp",
+        "title": "漫画加载与表情行为",
+        "width": 1600,
+        "height": 3259
+      },
+      {
+        "src": "asset--56-chick--03.webp",
+        "title": "养成首页与六套皮肤特写",
+        "width": 1600,
+        "height": 3259
+      },
+      {
+        "src": "asset--56-chick--04.webp",
+        "title": "十二套皮肤与营地聚会",
+        "width": 1600,
+        "height": 3259
+      },
+      {
+        "src": "asset--56-chick--05.webp",
+        "title": "小游戏与生活日记",
+        "width": 1600,
+        "height": 3259
+      },
+      {
+        "src": "asset--56-chick--06.webp",
+        "title": "隐藏款刺客56鸡与获取流程",
+        "width": 1600,
+        "height": 3259
+      },
+      {
+        "src": "asset--56-chick--07.webp",
+        "title": "项目背景与设计说明",
+        "width": 1600,
+        "height": 3259
+      }
+    ],
+    "cover": "asset--56-chick--cover.webp"
+  },
+  {
+    "id": "mofusand-packaging",
+    "title": "拆开一盒，小小海洋。",
+    "name": "HIPPERS mofusand · 包装改版",
+    "en": "A LITTLE OCEAN TO UNBOX",
+    "category": "包装设计",
+    "brief": "以真实商品为基础，将海洋主题重新组织为盒面、陈列与开盒体验。",
+    "background": "针对 Dreams HIPPERS mofusand 海洋主题真实商品进行自主外包装改版，保留商品及既有 IP 身份。",
+    "strategy": "使用浅海蓝、沙滩米色与海洋插画形成统一的包装语言。分别呈现品牌层级、商品识别、系列信息与陈列关系，并以展开示意说明图文分配。",
+    "scope": [
+      "外包装改版",
+      "盒面信息",
+      "陈列效果",
+      "工艺示意"
+    ],
+    "note": "非官方自主改版。商品与 IP 权利归原权利方；展开与工艺内容为设计示意，非生产刀模。",
+    "colors": [
+      "#9fd7e2",
+      "#e7c99c",
+      "#6b4830"
+    ],
+    "images": [
+      {
+        "src": "asset--mofusand-packaging--01.webp",
+        "title": "品牌与项目",
+        "width": 1600,
+        "height": 919
+      },
+      {
+        "src": "asset--mofusand-packaging--02.webp",
+        "title": "项目背景与设计说明",
+        "width": 1600,
+        "height": 1630
+      },
+      {
+        "src": "asset--mofusand-packaging--03.webp",
+        "title": "包装场景",
+        "width": 1600,
+        "height": 2037
+      },
+      {
+        "src": "asset--mofusand-packaging--04.webp",
+        "title": "设计与工艺",
+        "width": 1600,
+        "height": 3119
+      }
+    ],
+    "cover": "asset--mofusand-packaging--cover.webp"
+  },
+  {
+    "id": "animal-bakery",
+    "title": "把香甜，装进小盒子。",
+    "name": "ANIMAL BAKERY · 包装改版",
+    "en": "FRESHLY BAKED FRIENDS",
+    "category": "包装设计",
+    "brief": "奶油色、烘焙感与整齐的信息秩序，为真实商品设计新的外包装。",
+    "background": "基于 Dreams ANIMAL BAKERY Series 1 在售商品开展外包装设计研究，产品本体与系列设定沿用真实商品。",
+    "strategy": "用奶油白、烘焙棕和柔和暖色传达系列调性。将角色展示、标题、规格和系列信息分层编排，兼顾单盒展示与整盒陈列的视觉连贯。",
+    "scope": [
+      "包装视觉",
+      "系列信息",
+      "场景展示",
+      "平面与工艺"
+    ],
+    "note": "非官方自主改版。商品与 IP 权利归原权利方；工艺及展开内容为概念示意。",
+    "colors": [
+      "#f4dcc9",
+      "#a27554",
+      "#fff8eb"
+    ],
+    "images": [
+      {
+        "src": "asset--animal-bakery--01.webp",
+        "title": "品牌与项目",
+        "width": 1600,
+        "height": 919
+      },
+      {
+        "src": "asset--animal-bakery--02.webp",
+        "title": "项目背景与设计说明",
+        "width": 1600,
+        "height": 1630
+      },
+      {
+        "src": "asset--animal-bakery--03.webp",
+        "title": "包装场景",
+        "width": 1600,
+        "height": 1044
+      },
+      {
+        "src": "asset--animal-bakery--04.webp",
+        "title": "设计与工艺",
+        "width": 1600,
+        "height": 3222
+      }
+    ],
+    "cover": "asset--animal-bakery--cover.webp"
+  },
+  {
+    "id": "dozi",
+    "name": "DOZI · ONE ME. MANY MOODS.",
+    "title": "DOZI · ONE ME. MANY MOODS.",
+    "en": "DOZI",
+    "category": "品牌设计",
+    "brief": "以统一人物母版连接十六种状态、地铁与办公室场景，延展字标、收藏包装、随身周边、陪伴与解压产品。",
+    "background": "以日常情绪和短暂神游为主题的原创角色与品牌视觉项目，来自 Codex 聊天“作品集”。",
+    "strategy": "以统一人物母版连接十六种状态、地铁与办公室场景，延展字标、收藏包装、随身周边、陪伴与解压产品。用午夜蓝、暖灰棕和低饱和服装色维持整体识别。",
+    "scope": [
+      "视觉概念",
+      "主视觉与延展",
+      "设计过程"
+    ],
+    "note": "原创 IP 与自主视觉设计。",
+    "colors": [
+      "#27394f",
+      "#b3a18e",
+      "#eee8dc"
+    ],
+    "cover": "asset--dozi--cover.webp",
+    "images": [
+      {
+        "src": "asset--dozi--01-01.webp",
+        "title": "00-封面",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--dozi--02-01.webp",
+        "title": "01-项目概述与人物母版",
+        "width": 1440,
+        "height": 2855
+      },
+      {
+        "src": "asset--dozi--03-01.webp",
+        "title": "02-十六种角色状态 · 1",
+        "width": 1440,
+        "height": 7000
+      },
+      {
+        "src": "asset--dozi--03-02.webp",
+        "title": "02-十六种角色状态 · 2",
+        "width": 1440,
+        "height": 606
+      },
+      {
+        "src": "asset--dozi--04-01.webp",
+        "title": "03-品牌视觉与互动应用",
+        "width": 1440,
+        "height": 6754
+      },
+      {
+        "src": "asset--dozi--05-01.webp",
+        "title": "04-日常场景与短暂神游",
+        "width": 1440,
+        "height": 6157
+      },
+      {
+        "src": "asset--dozi--06-01.webp",
+        "title": "05-傍晚与情绪场景",
+        "width": 1440,
+        "height": 3680
+      },
+      {
+        "src": "asset--dozi--07-01.webp",
+        "title": "06-独立文创与随身周边",
+        "width": 1440,
+        "height": 5157
+      },
+      {
+        "src": "asset--dozi--08-01.webp",
+        "title": "07-IP功能产品-陪伴与解压",
+        "width": 1440,
+        "height": 4222
+      },
+      {
+        "src": "asset--dozi--09-01.webp",
+        "title": "08-IP功能产品-桌面灯光与闹钟",
+        "width": 1440,
+        "height": 4368
+      }
+    ],
+    "chatSource": "01a17b49-93b0-7983-afe5-8d3493ebb706"
+  },
+  {
+    "id": "douyin-spring",
+    "name": "抖音 · 春日开场",
+    "title": "抖音 · 春日开场",
+    "en": "DOUYIN SPRING",
+    "category": "平面设计",
+    "brief": "以左文右图、立体运动人物和前景道具透视建立主视觉。",
+    "background": "春日运动主题活动视觉概念提案，围绕运动参与、内容记录和社交传播展开。",
+    "strategy": "以左文右图、立体运动人物和前景道具透视建立主视觉。黑白与青玫强调运动节奏，将飞盘、网球及跨栏主题延展到活动界面、文创和应用场景。",
+    "scope": [
+      "视觉概念",
+      "主视觉与延展",
+      "设计过程"
+    ],
+    "note": "自主视觉概念提案，非品牌官方委托、已上线活动或官方联名；相关品牌与既有 IP 权利归原权利方。",
+    "colors": [
+      "#202126",
+      "#21c5dc",
+      "#ed3d84"
+    ],
+    "cover": "asset--douyin-spring--cover.webp",
+    "images": [
+      {
+        "src": "asset--douyin-spring--01-01.webp",
+        "title": "01-视觉设计篇 · 1",
+        "width": 1440,
+        "height": 7000
+      },
+      {
+        "src": "asset--douyin-spring--01-02.webp",
+        "title": "01-视觉设计篇 · 2",
+        "width": 1440,
+        "height": 515
+      },
+      {
+        "src": "asset--douyin-spring--02-01.webp",
+        "title": "02-周边与落地篇 · 1",
+        "width": 1440,
+        "height": 7000
+      },
+      {
+        "src": "asset--douyin-spring--02-02.webp",
+        "title": "02-周边与落地篇 · 2",
+        "width": 1440,
+        "height": 3952
+      }
+    ],
+    "chatSource": "01a17b49-93b0-7983-afe5-8d3493ebb706"
+  },
+  {
+    "id": "jd-snack",
+    "name": "京东秒送 · 零食开趴",
+    "title": "京东秒送 · 零食开趴",
+    "en": "JD SNACK",
+    "category": "其他设计",
+    "brief": "使用真实零食包装、礼盒与立体场景组织画面，形成从结构线稿、白模、配色到成品及细节解析的设计过程展示。",
+    "background": "围绕即时零食消费与礼包场景展开的品牌活动视觉概念，包含零食开趴与零食大礼包两款主题。",
+    "strategy": "使用真实零食包装、礼盒与立体场景组织画面，形成从结构线稿、白模、配色到成品及细节解析的设计过程展示。",
+    "scope": [
+      "视觉概念",
+      "主视觉与延展",
+      "设计过程"
+    ],
+    "note": "自主视觉概念提案，非品牌官方委托、已上线活动或官方联名；相关品牌与既有 IP 权利归原权利方。",
+    "colors": [
+      "#e52c32",
+      "#ffcd5d",
+      "#f8f3e8"
+    ],
+    "cover": "asset--jd-snack--cover.webp",
+    "images": [
+      {
+        "src": "asset--jd-snack--01-01.webp",
+        "title": "京东秒送-含项目背景完整版-v2 · 1",
+        "width": 1440,
+        "height": 7000
+      },
+      {
+        "src": "asset--jd-snack--01-02.webp",
+        "title": "京东秒送-含项目背景完整版-v2 · 2",
+        "width": 1440,
+        "height": 2534
+      }
+    ],
+    "chatSource": "01a17b49-93b0-7983-afe5-8d3493ebb706"
+  },
+  {
+    "id": "anta-unbox",
+    "name": "安踏 · 开盒即出发",
+    "title": "安踏 · 开盒即出发",
+    "en": "ANTA UNBOX",
+    "category": "平面设计",
+    "brief": "借助超广角视角、放大鞋盒与动态人物建立空间层次，将海岸、户外与角色主题形成系列，并展示线稿、白模、配色与字体细节。",
+    "background": "以运动鞋、鞋盒和出发场景为中心的品牌视觉与概念联名探索。",
+    "strategy": "借助超广角视角、放大鞋盒与动态人物建立空间层次，将海岸、户外与角色主题形成系列，并展示线稿、白模、配色与字体细节。",
+    "scope": [
+      "视觉概念",
+      "主视觉与延展",
+      "设计过程"
+    ],
+    "note": "自主视觉概念提案，非品牌官方委托、已上线活动或官方联名；相关品牌与既有 IP 权利归原权利方。",
+    "colors": [
+      "#329cab",
+      "#edab56",
+      "#243b43"
+    ],
+    "cover": "asset--anta-unbox--cover.webp",
+    "images": [
+      {
+        "src": "asset--anta-unbox--01-01.webp",
+        "title": "24-海岸款-修正站姿完整海报",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--anta-unbox--02-01.webp",
+        "title": "29-随野出发-完整海报",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--anta-unbox--03-01.webp",
+        "title": "08-猫和老鼠-上色海报",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--anta-unbox--04-01.webp",
+        "title": "12-猫和老鼠-项目概述与设计策略",
+        "width": 1122,
+        "height": 1402
+      },
+      {
+        "src": "asset--anta-unbox--05-01.webp",
+        "title": "13-猫和老鼠-设计过程展示",
+        "width": 1500,
+        "height": 938
+      },
+      {
+        "src": "asset--anta-unbox--06-01.webp",
+        "title": "19-踏浪而行-字体细节与色卡",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--anta-unbox--07-01.webp",
+        "title": "25-随野出发-结构线稿",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--anta-unbox--08-01.webp",
+        "title": "26-随野出发-白模",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--anta-unbox--09-01.webp",
+        "title": "27-随野出发-上色草图",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--anta-unbox--10-01.webp",
+        "title": "30-随野出发-字体细节与色卡",
+        "width": 1024,
+        "height": 1536
+      }
+    ],
+    "chatSource": "01a17b49-93b0-7983-afe5-8d3493ebb706"
+  },
+  {
+    "id": "hema",
+    "name": "盒马 · 生活制造局",
+    "title": "盒马 · 生活制造局",
+    "en": "HEMA",
+    "category": "其他设计",
+    "brief": "以放大的商品、立体角色与生活空间组织主视觉，结合品牌色建立识别，并呈现结构、白模、配色与成品的制作过程。",
+    "background": "以生鲜食材与厨师角色为主题的自主品牌场景视觉概念。",
+    "strategy": "以放大的商品、立体角色与生活空间组织主视觉，结合品牌色建立识别，并呈现结构、白模、配色与成品的制作过程。",
+    "scope": [
+      "视觉概念",
+      "主视觉与延展",
+      "设计过程"
+    ],
+    "note": "自主视觉概念提案，非品牌官方委托、已上线活动或官方联名；相关品牌与既有 IP 权利归原权利方。",
+    "colors": [
+      "#308ab0",
+      "#e6c392",
+      "#ece8e2"
+    ],
+    "cover": "asset--hema--cover.webp",
+    "images": [
+      {
+        "src": "asset--hema--01-01.webp",
+        "title": "盒马-05-完整海报-v2-参考构图",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--hema--02-01.webp",
+        "title": "盒马-01-无文字线稿",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--hema--03-01.webp",
+        "title": "盒马-02-无文字白模",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--hema--04-01.webp",
+        "title": "盒马-03-无文字单色稿",
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "src": "asset--hema--05-01.webp",
+        "title": "盒马-04-无文字彩色成品-v2-参考构图",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--hema--06-01.webp",
+        "title": "盒马-06-项目背景与设计解析",
+        "width": 1440,
+        "height": 2960
+      }
+    ],
+    "chatSource": "01a17b49-93b0-7983-afe5-8d3493ebb706"
+  },
+  {
+    "id": "meituan",
+    "name": "美团 · 生活制造局",
+    "title": "美团 · 生活制造局",
+    "en": "MEITUAN",
+    "category": "其他设计",
+    "brief": "以放大的商品、立体角色与生活空间组织主视觉，结合品牌色建立识别，并呈现结构、白模、配色与成品的制作过程。",
+    "background": "以即时生活与配送场景为主题的自主品牌场景视觉概念。",
+    "strategy": "以放大的商品、立体角色与生活空间组织主视觉，结合品牌色建立识别，并呈现结构、白模、配色与成品的制作过程。",
+    "scope": [
+      "视觉概念",
+      "主视觉与延展",
+      "设计过程"
+    ],
+    "note": "自主视觉概念提案，非品牌官方委托、已上线活动或官方联名；相关品牌与既有 IP 权利归原权利方。",
+    "colors": [
+      "#ffc936",
+      "#34312e",
+      "#f7f0df"
+    ],
+    "cover": "asset--meituan--cover.webp",
+    "images": [
+      {
+        "src": "asset--meituan--01-01.webp",
+        "title": "美团-05-完整海报",
+        "width": 1500,
+        "height": 812
+      },
+      {
+        "src": "asset--meituan--02-01.webp",
+        "title": "美团-01-无文字线稿",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--meituan--03-01.webp",
+        "title": "美团-02-无文字白模",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--meituan--04-01.webp",
+        "title": "美团-03-无文字单色稿",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--meituan--05-01.webp",
+        "title": "美团-04-无文字彩色成品-v2-参考修订",
+        "width": 1500,
+        "height": 812
+      },
+      {
+        "src": "asset--meituan--06-01.webp",
+        "title": "美团-06-项目背景与设计解析",
+        "width": 1440,
+        "height": 2960
+      }
+    ],
+    "chatSource": "01a17b49-93b0-7983-afe5-8d3493ebb706"
+  },
+  {
+    "id": "tmall",
+    "name": "天猫 · 生活制造局",
+    "title": "天猫 · 生活制造局",
+    "en": "TMALL",
+    "category": "其他设计",
+    "brief": "以放大的商品、立体角色与生活空间组织主视觉，结合品牌色建立识别，并呈现结构、白模、配色与成品的制作过程。",
+    "background": "以品牌购物与商品场景为主题的自主品牌场景视觉概念。",
+    "strategy": "以放大的商品、立体角色与生活空间组织主视觉，结合品牌色建立识别，并呈现结构、白模、配色与成品的制作过程。",
+    "scope": [
+      "视觉概念",
+      "主视觉与延展",
+      "设计过程"
+    ],
+    "note": "自主视觉概念提案，非品牌官方委托、已上线活动或官方联名；相关品牌与既有 IP 权利归原权利方。",
+    "colors": [
+      "#df283c",
+      "#ece3da",
+      "#222632"
+    ],
+    "cover": "asset--tmall--cover.webp",
+    "images": [
+      {
+        "src": "asset--tmall--01-01.webp",
+        "title": "天猫-05-完整海报",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--tmall--02-01.webp",
+        "title": "天猫-01-无文字线稿",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--tmall--03-01.webp",
+        "title": "天猫-02-无文字白模",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--tmall--04-01.webp",
+        "title": "天猫-03-无文字单色稿",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--tmall--05-01.webp",
+        "title": "天猫-04-无文字彩色成品",
+        "width": 1500,
+        "height": 811
+      },
+      {
+        "src": "asset--tmall--06-01.webp",
+        "title": "天猫-06-项目背景与设计解析",
+        "width": 1440,
+        "height": 2960
+      }
+    ],
+    "chatSource": "01a17b49-93b0-7983-afe5-8d3493ebb706"
+  },
+  {
+    "id": "poster-collection",
+    "name": "视觉海报 · 十八个主题",
+    "title": "视觉海报 · 十八个主题",
+    "en": "POSTER COLLECTION",
+    "category": "平面设计",
+    "brief": "按不同主题组织字体、产品质感、配色和信息层级，以独立海报展示各自的视觉方向。",
+    "background": "来自聊天“作品集”的十八张海报练习与视觉研究，涵盖餐饮、饮品、节庆及生活方式主题。",
+    "strategy": "按不同主题组织字体、产品质感、配色和信息层级，以独立海报展示各自的视觉方向。此系列包含参考还原研究，单独标明项目性质。",
+    "scope": [
+      "视觉概念",
+      "主视觉与延展",
+      "设计过程"
+    ],
+    "note": "参考还原与视觉练习，非原创商业委托或品牌官方成稿。",
+    "colors": [
+      "#cd472b",
+      "#e8ce89",
+      "#253f36"
+    ],
+    "cover": "asset--poster-collection--cover.webp",
+    "images": [
+      {
+        "src": "asset--poster-collection--01-01.webp",
+        "title": "01-烫手山芋节",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "asset--poster-collection--02-01.webp",
+        "title": "02-池上物种",
+        "width": 1024,
+        "height": 1536
+      },
+      {
+        "src": "asset--poster-collection--03-01.webp",
+        "title": "03-火锅沸腾啦",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--04-01.webp",
+        "title": "04-观云竹间香氛",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--05-01.webp",
+        "title": "05-麒麟极生发泡酒",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--06-01.webp",
+        "title": "06-天目里咖啡节",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--07-01.webp",
+        "title": "07-赤峰家常炭火正香",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--08-01.webp",
+        "title": "08-古茗香蕉拿铁",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--09-01.webp",
+        "title": "09-好利来龙井茶香瑞士卷",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--10-01.webp",
+        "title": "10-陈皮雪梨桂花饮",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--11-01.webp",
+        "title": "11-马来莲D197猫山王",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--12-01.webp",
+        "title": "12-可可栗子慕斯",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--13-01.webp",
+        "title": "13-照烧芥末鱼",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--14-01.webp",
+        "title": "14-葡萄果酒",
+        "width": 1224,
+        "height": 1285
+      },
+      {
+        "src": "asset--poster-collection--15-01.webp",
+        "title": "15-青提冰萃果茶-改2",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--16-01.webp",
+        "title": "16-青岛啤酒节",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--17-01.webp",
+        "title": "17-手工中式茶点",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "asset--poster-collection--18-01.webp",
+        "title": "18-大漠甘润",
+        "width": 1086,
+        "height": 1448
+      }
+    ],
+    "chatSource": "01a17b49-93b0-7983-afe5-8d3493ebb706"
+  },
+  {
+    "id": "bear-double11-mobile",
+    "name": "小熊双11 · 移动端活动专题",
+    "title": "小熊双11 · 移动端活动专题",
+    "en": "BEAR DOUBLE 11 MOBILE",
+    "category": "电商设计",
+    "brief": "围绕小熊三款真实厨房小家电，设计双11移动端连续活动专题长页。",
+    "background": "以小熊电器空气炸锅 QZG-F15E3、双灶电煮锅 DRG-E12J1、养生壶 YSH-D15U2 为商品基础，结合双11活动页面研究，完成移动端活动专题自主概念设计。",
+    "strategy": "围绕“小熊好物开趴”，以朱红、奶油白和深绿串联首屏、领券入口、通栏主推、双列商品和场景导购。先规划一张连续长页，再分四段高清生成并合并，通过红金曲线和统一按钮连接各区块。",
+    "scope": [
+      "活动专题视觉",
+      "连续长页设计",
+      "高清分段生成与合成"
+    ],
+    "note": "自主概念设计，非品牌官方委托；权益入口为设计示意，价格、库存与活动规则以店铺实际页面为准。",
+    "colors": [
+      "#D53432",
+      "#FFF1D8",
+      "#275244",
+      "#DAA85B"
+    ],
+    "cover": "asset--bear-double11-mobile--cover.webp",
+    "images": [
+      {
+        "src": "asset--bear-double11-mobile--full-page.webp",
+        "title": "双11活动专题 · 完整连续长页",
+        "width": 1024,
+        "height": 5814
+      }
+    ],
+    "download": "asset--bear-double11-mobile--full-delivery.zip",
+    "downloadLabel": "下载双11高清分段、长图与设计说明"
+  },
+  {
+    "id": "bear-wide-ads",
+    "name": "小熊电器 · 四张横屏广告",
+    "title": "小熊电器 · 四张横屏广告",
+    "en": "BEAR WIDE ADS",
+    "category": "电商设计",
+    "brief": "围绕电饭煲、双灶电煮锅、多士炉及养生壶开展系列横屏广告视觉设计。",
+    "background": "围绕电饭煲、双灶电煮锅、多士炉及养生壶开展系列横屏广告视觉设计。",
+    "strategy": "以横向构图安排产品、场景与文案，四张广告各自突出商品特点，同时保持统一的品牌生活感。",
+    "scope": [
+      "电商视觉",
+      "系列展示",
+      "完整文件交付"
+    ],
+    "note": "基于已有设计稿展示，非品牌官方委托；产品六视板为设计参考，页面权益及参数沿用原稿。",
+    "colors": [
+      "#c7222d",
+      "#eecb7c",
+      "#f2e6d4"
+    ],
+    "cover": "asset--bear-wide-ads--cover.webp",
+    "images": [
+      {
+        "src": "asset--bear-wide-ads--01-01.webp",
+        "title": "01-电饭煲",
+        "width": 1500,
+        "height": 600
+      },
+      {
+        "src": "asset--bear-wide-ads--02-01.webp",
+        "title": "02-双灶电煮锅",
+        "width": 1500,
+        "height": 600
+      },
+      {
+        "src": "asset--bear-wide-ads--03-01.webp",
+        "title": "03-多士炉",
+        "width": 1500,
+        "height": 600
+      },
+      {
+        "src": "asset--bear-wide-ads--04-01.webp",
+        "title": "04-养生壶",
+        "width": 1500,
+        "height": 600
+      }
+    ],
+    "download": "asset--bear-wide-ads--full-delivery.zip",
+    "downloadLabel": "下载四张广告与提示词"
+  },
+  {
+    "id": "bear-tmall-ui",
+    "name": "小熊天猫 · 商品界面全套",
+    "title": "小熊天猫 · 商品界面全套",
+    "en": "BEAR TMALL UI",
+    "category": "电商设计",
+    "brief": "围绕小熊电器商品主图和天猫移动商品列表界面展开的整套视觉设计。",
+    "background": "围绕小熊电器商品主图和天猫移动商品列表界面展开的整套视觉设计。",
+    "strategy": "以红色促销、蓝色功能展示与橙紫活动系列区分使用情境，并用列表页面展示不同商品卡片的组合效果。",
+    "scope": [
+      "电商视觉",
+      "系列展示",
+      "完整文件交付"
+    ],
+    "note": "基于已有设计稿展示，非品牌官方委托；产品六视板为设计参考，页面权益及参数沿用原稿。",
+    "colors": [
+      "#c7222d",
+      "#eecb7c",
+      "#f2e6d4"
+    ],
+    "cover": "asset--bear-tmall-ui--cover.webp",
+    "images": [
+      {
+        "src": "asset--bear-tmall-ui--01-01.webp",
+        "title": "全套作品集展示长图",
+        "width": 1500,
+        "height": 2453
+      }
+    ],
+    "download": "asset--bear-tmall-ui--full-delivery.zip",
+    "downloadLabel": "下载整套商品界面"
+  }
+]
